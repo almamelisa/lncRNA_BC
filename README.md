@@ -75,9 +75,17 @@ It contains .tab output files from transcripts counting process.
 
 	1.6 Differential expression analysis
 
-	..\lncRNA_BC\Transcriptome\DESeq2
+	..\lncRNA_BC\Transcriptome\DEA
+
+It contains the differential expression analysis results. It is divided in 2 folders
+		
+		..\lncRNA_BC\Transcriptome\DEA\DESeq2
 
 It contains the output file from DESeq2 analysis () and it also contain the differential expression report in .tab format.
+
+		..\lncRNA_BC\Transcriptome\DEA\ER
+
+It contains the output file from EdgeR analysis () and it also contain the differential expression report in .tab format.
 
 	1.7 Gene Ontology Analysis
 
