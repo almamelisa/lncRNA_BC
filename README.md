@@ -200,6 +200,12 @@ It contains the output files from filtering
 
 It contains graphical results
 
+	1.5 Clinical information
+
+	..\lncRNA_BC\Exome\Graphs
+
+It contains all clinical data and variables in .tab files
+
 #APENDIX 1
 
 Selected topics of Bioinformatics
