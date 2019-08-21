@@ -202,7 +202,7 @@ It contains graphical results
 
 	1.5 Clinical information
 
-	..\lncRNA_BC\Exome\Graphs
+	..\lncRNA_BC\Exome\Clinic
 
 It contains all clinical data and variables in .tab files
 
