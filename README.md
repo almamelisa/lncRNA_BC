@@ -214,6 +214,12 @@ It contains graphical results
 
 It contains all clinical data and variables in .tab files
 
+	1.6 Scripts
+	
+	..\lncRNA_BC\Exome\Scripts
+
+It contains all the scripts
+
 #APENDIX 1
 
 Selected topics of Bioinformatics
